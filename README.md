@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ShaoHans</h1>
 <h3 align="center">A passionate Full Stack Developer from China</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaohans&label=Profile%20views&color=0e75b6&style=flat" alt="shaohans" /> </p>
 <br>
 <div align="center">
   
